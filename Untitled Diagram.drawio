@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T03:18:09.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="WNQZGJNWRZnPGAusj60O" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T03:19:53.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="Q8FgJFMxW9u5LXjpfS7Y" version="17.4.3" type="github">
   <diagram id="pjIsKfsIEXI_7wrBBDGx" name="Page-1">
-    <mxGraphModel dx="718" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1044" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,6 +195,9 @@
         </mxCell>
         <mxCell id="SaBIB134_x7v61gi743N-50" value="카카오 회원가입&lt;br&gt;페이지로 이동" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiwvSE_KPbyLOYS1ifNF-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
